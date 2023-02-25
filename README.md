@@ -39,6 +39,9 @@ AES es el algoritmo seleccionado para la encriptación de datos en **Don Gerardo
 
 ## Especificaciones del computador
 
+* presupuesto: US$ 3000$
+* Gastos total: US$ 2974.04
+
 #### a) Motherboard
 
 * GIGABYTE X670 AORUS Elite AX - US$ 279.00
