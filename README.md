@@ -19,7 +19,7 @@ Es la ciencia que estudia los métodos de codificación y decodificación de men
 
 El problema que se plantea es la construcción de un computador que permita realizar la encriptación y desencriptación de un mensaje utilizando el algoritmo AES. Esto con el propósito de usarse en el sector industrial de la ciberseguridad y redes.
 
-Para esto se creó un supuesto acerca de una empresa de ciberseguridad e infraestructura llamada "Don Gerardo" que se dedica a la venta de computadores para la encriptación de datos. El problema que se plantea es que la empresa no cuenta con un computador que pueda realizar la encriptación y desencriptación de un mensaje utilizando el algoritmo AES.
+Para esto se creó un supuesto acerca de una empresa de ciberseguridad e infraestructura llamada "Don Gerardo" que se dedica a la venta de computadores para la encriptación de datos. El problema que se plantea es que la empresa necesita armar una nueva linea de computadoras para la venta, con una serie de requeremientos como: presupuesto de 3000$, que este libre de cuellos de botella y que sea capaz de cumplir sus tareas aun en situaciones de alto estres.
 
 #### c-) AES
 
