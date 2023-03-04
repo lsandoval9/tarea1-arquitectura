@@ -10,16 +10,11 @@
 # Construcción de un computador para criptografía
 
 ## Introducción
+La criptografía es una técnica para proteger la seguridad de la información y las comunicaciones mediante el uso de códigos que solo aquellas personas a las que está destinada dicha información puedan entenderla y procesarla. Previniendo así el acceso no autorizado a los datos enviados.
 
-#### a) Breve introducción a la criptografía
+De este modo, el presente documento plantea la construcción de un computador orientado al calculo criptografico, de forma que permita realizar la encriptación y desencriptación de un mensaje. Para lograr este objetivo se propone el uso del algoritmo de encriptación AES, ya que es el algoritmo con mayor popularidad en la industria de redes y ciberseguridad.
 
-Es la ciencia que estudia los métodos de codificación y decodificación de mensajes para que sean ininteligibles para terceros no autorizados. La criptografía es una herramienta que permite proteger la información de los ataques de los piratas informáticos, los espías y los hackers. La criptografía es la base de la seguridad informática. 
-
-#### b) planteamiento del problema
-
-El problema que se plantea es la construcción de un computador que permita realizar la encriptación y desencriptación de un mensaje utilizando el algoritmo AES. Esto con el propósito de usarse en el sector industrial de la ciberseguridad y redes.
-
-Para esto se creó un supuesto acerca de una empresa de ciberseguridad e infraestructura llamada "Don Gerardo" que se dedica a la venta de computadores para la encriptación de datos. El problema que se plantea es que la empresa necesita armar una nueva linea de computadoras para la venta, con una serie de requeremientos como: presupuesto de 3000$, que este libre de cuellos de botella y que sea capaz de cumplir sus tareas aun en situaciones de alto estres.
+Asimismo, para establecer un marco de investigación, se asume una empresa ficticia llamada *Don Gerardo*, con un modelo de negocio enfocado en la venta de computadores para la encriptación de datos. Además, la compañia se enfrenta al desafío de crear una nueva linea de computadoras para satisfacer las necesidades de sus clientes. Los requisitos para la construcción de las mismas son un presupuesto máximo de US$3000, garantizando que no se presenten cuellos de botella y que sean capaces de cumplir sus tareas incluso en situaciones de alto estrés.
 
 #### c-) AES
 
