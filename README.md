@@ -77,18 +77,18 @@ El Cooler Master MasterLiquid ya posee una pasta térmica de alta calidad, pero 
 
 ## Bibliografía
 
-[1] https://www.geeksforgeeks.org/cryptography-and-its-types/
-[2] https://ieeexplore.ieee.org/abstract/document/8757514
-[3] https://techjury.net/blog/what-is-aes/#gref
-[4] https://www.amd.com/es/products/apu/amd-ryzen-9-7950x3d
-[5] https://www.muycomputer.com/2022/10/13/amd-ryzen-9-7950x-y-ryzen-7-7700x-analisis/
-[6] https://www.gigabyte.com/Motherboard/X670-AORUS-ELITE-AX-rev-10#kf
-[7] https://www.corsair.com/ru/es/Categorías/Productos/Chasis/Chasis-de-supertorre-y-torre-completa/7000D-AIRFLOW-Full-Tower-ATX-PC-Case/p/CC-9011218-WW
-[8] https://www.evga.com/Products/product.aspx?pn=220-P5-1000-X1
-[9] https://www.coolermaster.com/catalog/coolers/cpu-liquid-coolers/masterliquid-ml280-mirror/
-[10] https://www.kingston.com/es/memory/gaming/kingston-fury-beast-ddr5-memory
-[11] https://www.samsung.com/es/memory-storage/nvme-ssd/980-pro-2tb-nvme-pcie-gen-4-mz-v8p2t0bw/
-[12] https://www.gigabyte.com/es/Graphics-Card/GV-N407TAERO-OC-12GD#kf
-[13] https://link.springer.com/chapter/10.1007/978-981-15-5558-9_39
-[14] https://www.arctic.de/en/MX-4/ACTCP00007B
-[15] https://linustechtips.com/topic/510610-never-leave-pre-applied-thermal-paste-on-your-cpu-read_me/
+[1]: https://www.geeksforgeeks.org/cryptography-and-its-types/
+[2]: https://ieeexplore.ieee.org/abstract/document/8757514
+[3]: https://techjury.net/blog/what-is-aes/#gref
+[4]: https://www.amd.com/es/products/apu/amd-ryzen-9-7950x3d
+[5]: https://www.muycomputer.com/2022/10/13/amd-ryzen-9-7950x-y-ryzen-7-7700x-analisis/
+[6]: https://www.gigabyte.com/Motherboard/X670-AORUS-ELITE-AX-rev-10#kf
+[7]: https://www.corsair.com/ru/es/Categorías/Productos/Chasis/Chasis-de-supertorre-y-torre-completa/7000D-AIRFLOW-Full-Tower-ATX-PC-Case/p/CC-9011218-WW
+[8]: https://www.evga.com/Products/product.aspx?pn=220-P5-1000-X1
+[9]: https://www.coolermaster.com/catalog/coolers/cpu-liquid-coolers/masterliquid-ml280-mirror/
+[10]: https://www.kingston.com/es/memory/gaming/kingston-fury-beast-ddr5-memory
+[11]: https://www.samsung.com/es/memory-storage/nvme-ssd/980-pro-2tb-nvme-pcie-gen-4-mz-v8p2t0bw/
+[12]: https://www.gigabyte.com/es/Graphics-Card/GV-N407TAERO-OC-12GD#kf
+[13]: https://link.springer.com/chapter/10.1007/978-981-15-5558-9_39
+[14]: https://www.arctic.de/en/MX-4/ACTCP00007B
+[15]: https://linustechtips.com/topic/510610-never-leave-pre-applied-thermal-paste-on-your-cpu-read_me/
