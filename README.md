@@ -1,11 +1,11 @@
-# Tarea 1 - Arquitectura del computador
+# Tarea 1 - Construcción de un Computador para Criptografía
 
 ![1copy](https://user-images.githubusercontent.com/63022972/221295740-ac8c9cc7-3882-4254-8f71-9e2486ccf059.png)
 
-## Integrantes:
+## Integrantes
 
-- Luis Sandoval - [Github](https://github.com/lsandoval9)
-- Gerardo Díaz - [Github](https://github.com/GerardoDiaz22)
+- Luis Sandoval C.I.: 26.781.082 - [Github](https://github.com/lsandoval9)
+- Gerardo Díaz C.I.: 30.388.971 - [Github](https://github.com/GerardoDiaz22)
 
 # Construcción de un computador para criptografía
 
@@ -15,22 +15,6 @@ La criptografía es una técnica para proteger la seguridad de la información y
 De este modo, el presente documento plantea la construcción de un computador orientado al calculo criptografico, de forma que permita realizar la encriptación y desencriptación de un mensaje. Para lograr este objetivo se propone el uso del algoritmo de encriptación AES, ya que es el algoritmo con mayor popularidad en la industria de redes y ciberseguridad. [3]
 
 Asimismo, para establecer un marco de investigación, se asume una empresa ficticia llamada *Don Gerardo*, con un modelo de negocio enfocado en la venta de computadores para la encriptación de datos. Además, la compañia se enfrenta al desafío de crear una nueva linea de computadoras para satisfacer las necesidades de sus clientes. Los requisitos para la construcción de las mismas son un presupuesto máximo de US$3000, garantizando que no se presenten cuellos de botella y que sean capaces de cumplir sus tareas incluso en situaciones de alto estrés.
-
-#### c-) AES
-
-AES (**A**dvanced **E**ncryption **S**tandard) es un esquema de cifrado estadarizado para encriptar y desencriptar informacion. El proceso involucra el cifrado de la información en bloques, utilizando una llave, que es un conjunto de bits que se utiliza para encriptar y desencriptar la información. El algoritmo AES es un algoritmo de cifrado simetrico, es decir, que utiliza la misma llave para encriptar y desencriptar la información.
-
-AES es el algoritmo seleccionado para la encriptación de datos en **Don Gerardo ©**, debido a que es el algoritmo de cifrado mas usado en la actualidad y uno de los mas seguros.
-
-**Notas curiosa sobre AES**:
-
-- El Esquema AES es tan seguro que esta aprovado por la NSA (Agencia de Seguridad Nacional de los Estados Unidos) y por el gobierno de los Estados Unidos para la encriptación de datos clasificados.
-
-- AES es el algoritmo de cifrado mas usado en la actualidad.
-
-- El algoritmo AES fue desarrollado por el grupo de criptografía de la NIST (Instituto Nacional de Estándares y Tecnología de los Estados Unidos).
-
-- El algoritmo AES puede encontrarse en routers de uso domestico como una alternativa a TKIP, para encriptar el envio y recepción de datos en redes inalambricas.
 
 ## Especificaciones del computador
 
