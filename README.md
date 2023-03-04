@@ -10,9 +10,9 @@
 # Construcción de un computador para criptografía
 
 ## Introducción
-La criptografía es una técnica para proteger la seguridad de la información y las comunicaciones mediante el uso de códigos que solo aquellas personas a las que está destinada dicha información puedan entenderla y procesarla. Previniendo así el acceso no autorizado a los datos enviados.
+La criptografía es una técnica para proteger la seguridad de la información y las comunicaciones mediante el uso de códigos que solo aquellas personas a las que está destinada dicha información puedan entenderla y procesarla. Previniendo así el acceso no autorizado a los datos enviados. [1,2]
 
-De este modo, el presente documento plantea la construcción de un computador orientado al calculo criptografico, de forma que permita realizar la encriptación y desencriptación de un mensaje. Para lograr este objetivo se propone el uso del algoritmo de encriptación AES, ya que es el algoritmo con mayor popularidad en la industria de redes y ciberseguridad.
+De este modo, el presente documento plantea la construcción de un computador orientado al calculo criptografico, de forma que permita realizar la encriptación y desencriptación de un mensaje. Para lograr este objetivo se propone el uso del algoritmo de encriptación AES, ya que es el algoritmo con mayor popularidad en la industria de redes y ciberseguridad. [3]
 
 Asimismo, para establecer un marco de investigación, se asume una empresa ficticia llamada *Don Gerardo*, con un modelo de negocio enfocado en la venta de computadores para la encriptación de datos. Además, la compañia se enfrenta al desafío de crear una nueva linea de computadoras para satisfacer las necesidades de sus clientes. Los requisitos para la construcción de las mismas son un presupuesto máximo de US$3000, garantizando que no se presenten cuellos de botella y que sean capaces de cumplir sus tareas incluso en situaciones de alto estrés.
 
@@ -125,6 +125,10 @@ La pasta térmica Arctic MX-4 es una pasta térmica de alta calidad, compuesta p
 
  Nuestro Cooler Master MasterLiquid posee ya una pasta térmica de alta calidad, pero muchos expertos en el ensamblaje de equipos de alto rendimiento recomiendan cambiar la pasta térmica que viene por defecto en los coolers liquidos, por una pasta térmica de mayor calidad.
 ## Bibliografía
+
+[1] https://www.geeksforgeeks.org/cryptography-and-its-types/
+[2] https://ieeexplore.ieee.org/abstract/document/8757514
+[3] https://techjury.net/blog/what-is-aes/#gref
 
 [Comparativa entre AES y Blowfish](https://www.researchgate.net/publication/342764235_Comparison_of_Encryption_Algorithms_AES_Blowfish_and_Twofish_for_Security_of_Wireless_Networks#:~:text=Blowfish%20and%20AES%2C%20on%20the,in%20encrypting%20data%20%5B3%5D.)
 
