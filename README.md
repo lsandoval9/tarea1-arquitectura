@@ -86,14 +86,12 @@ Kingston tambien garantiza, al menos un 50% mas de rendimiento que las ultimas g
 ### Almacenamiento: 2 x Serie Samsung 980 PRO 2TB NVMe M.2
 #### US$ 358.00 (2 x US$179.99)
 
-[Proveedor](https://www.amazon.com/-/es/PCIe-NVMe-interno-juegos-MZ-V8P2T0B/dp/B09JHKSNNG/ref=sr_1_4?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=YA8TUVPXTPXW&keywords=nvme%2Bm.2&qid=1677281921&sprefix=nvme%2Bm.2%2Caps%2C162&sr=8-4&th=1)
-
 El NVMe M.2 Samsung 980 PRO 2TB es un disco duro de estado solido con una capacidad de 2TB. Esta unidad cuenta con una velocidad de lectura de 7.000 MB/s y una velocidad de escritura de 5.000 MB/s. Su alta velocidad de lectura y escritura permite que nuestro procesador pueda procesar datos a una velocidad mucho mas rapida al tratarse de grandes bancos de datasets.
+
+[Proveedor](https://www.amazon.com/-/es/PCIe-NVMe-interno-juegos-MZ-V8P2T0B/dp/B09JHKSNNG/ref=sr_1_4?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=YA8TUVPXTPXW&keywords=nvme%2Bm.2&qid=1677281921&sprefix=nvme%2Bm.2%2Caps%2C162&sr=8-4&th=1)
 
 ### Tarjeta de Video: Gigabyte GeForce RTX 4070 Ti AERO OC 12G
 #### US$1,011.08
-
-[Proveedor](https://www.amazon.com/-/es/Gigabyte-ventiladores-WINDFORCE-GV-N407TAERO-OC-12GD/dp/B0BRR1MPTX/ref=sr_1_13?keywords=geforce+rtx+4070+ti&qid=1677331967&sprefix=gefeorce+rt%2Caps%2C139&sr=8-13)
 
 La GeForce RTX 4070 Ti AERO OC 12G es una tarjeta de video con una capacidad de 12GB de memoria RAM. Esta tarjeta cuenta con 7680 CUDA cores, 480 Tensor cores y 120 Ray tracing cores. Esta tarjeta tambien cuenta con un sistema de enfriamiento llamado "WINDFORCE 3X", lo que permite que se mantenga a temperaturas bajas incluso en periodos de gran estres.
 
@@ -101,14 +99,16 @@ Los Cuda cores son utiles para el procesamiento de grandes cantidades de datos, 
 
 Nuestro equipo debe ser capaz de procesar grandes cantidades de datos en paralelo, por lo que es beneficioso que nuestra tarjeta de video cuente con una gran cantidad de Cuda cores y Tensor cores para apoyar al procesador. Esto es util tambien para el procesamiento y encriptacion de datos a traves de redes o entornos en la nube.
 
+[Proveedor](https://www.amazon.com/-/es/Gigabyte-ventiladores-WINDFORCE-GV-N407TAERO-OC-12GD/dp/B0BRR1MPTX/ref=sr_1_13?keywords=geforce+rtx+4070+ti&qid=1677331967&sprefix=gefeorce+rt%2Caps%2C139&sr=8-13)
+
 ### Pasta Térmica: Arctic MX-4
 #### US$ 21.99
-
-[Proveedor](https://www.amazon.com/-/es/compuesto-t%C3%A9rmico-densidad-polisint%C3%A9tico-AS5-12G-R/dp/B0087X71ZO/ref=sr_1_5?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1NHBHSI8VTMY7&keywords=silver+thermal+paste&qid=1677335269&sprefix=pasta+termica+plata%2Caps%2C133&sr=8-5)
 
 La pasta térmica Arctic MX-4 es una pasta térmica de alta calidad, compuesta por un 99.9% de plata pura y con un diseño de gran viscosidad. Esto garantiza gran estabilidad térmica y una gran disipacion de calor.
 
 Nuestro Cooler Master MasterLiquid posee ya una pasta térmica de alta calidad, pero muchos expertos en el ensamblaje de equipos de alto rendimiento recomiendan cambiar la pasta térmica que viene por defecto en los coolers liquidos, por una pasta térmica de mayor calidad.
+
+[Proveedor](https://www.amazon.com/-/es/compuesto-t%C3%A9rmico-densidad-polisint%C3%A9tico-AS5-12G-R/dp/B0087X71ZO/ref=sr_1_5?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1NHBHSI8VTMY7&keywords=silver+thermal+paste&qid=1677335269&sprefix=pasta+termica+plata%2Caps%2C133&sr=8-5)
 
 ### Presupuesto: US$ 3000$
 ### Precio total: US$ 2974.04
