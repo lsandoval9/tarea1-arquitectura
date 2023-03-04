@@ -59,21 +59,24 @@ El NVMe M.2 Samsung 980 PRO 2TB es un disco duro de estado sólido con una capac
 
 
 ### Tarjeta de Video: Gigabyte GeForce RTX 4070 Ti AERO OC 12G
-[US$1,011.08 - 25/02/2023](https://www.amazon.com/-/es/Gigabyte-ventiladores-WINDFORCE-GV-N407TAERO-OC-12GD/dp/B0BRR1MPTX/ref=sr_1_13?keywords=geforce+rtx+4070+ti&qid=1677331967&sprefix=gefeorce+rt%2Caps%2C139&sr=8-13)
+[US$1,021.08 - 27/02/2023](https://www.amazon.com/-/es/Gigabyte-ventiladores-WINDFORCE-GV-N407TAERO-OC-12GD/dp/B0BRR1MPTX/ref=sr_1_13?keywords=geforce+rtx+4070+ti&qid=1677331967&sprefix=gefeorce+rt%2Caps%2C139&sr=8-13)
 
 La GeForce RTX 4070 Ti AERO OC 12G es una tarjeta de video con una capacidad de 12GB de memoria RAM. Esta tarjeta cuenta con 7680 CUDA cores, 480 Tensor cores y 120 Ray tracing cores. Esta tarjeta también cuenta con un sistema de enfriamiento llamado "WINDFORCE 3X", lo que permite que se mantenga a temperaturas bajas incluso en periodos de gran estrés.[12]
 
 Los Cuda cores son útiles para el procesamiento de grandes cantidades de datos, los Tensor cores son útiles para el procesamiento de datos de gran complejidad. Esto es útil cuando se necesitan procesar grandes bancos de datasets desde la memoria secundaria, sobre todo cuando se trata de archivos que no son texto plano como imágenes, videos, etc. Nuestro equipo debe ser capaz de procesar grandes cantidades de datos en paralelo, por lo que es beneficioso que nuestra tarjeta de video cuente con una gran cantidad de Cuda cores y Tensor cores para apoyar al procesador. Esto es útil también para el procesamiento y encriptación de datos usando AES o RSA.[13]
-
+21.99
 ### Pasta Térmica: Arctic MX-4
-[US$21.99 - 25/02/2023](https://www.amazon.com/-/es/compuesto-t%C3%A9rmico-densidad-polisint%C3%A9tico-AS5-12G-R/dp/B0087X71ZO/ref=sr_1_5?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1NHBHSI8VTMY7&keywords=silver+thermal+paste&qid=1677335269&sprefix=pasta+termica+plata%2Caps%2C133&sr=8-5)
+[US$33.85 - 1/03/2023](https://www.amazon.com/-/es/compuesto-t%C3%A9rmico-densidad-polisint%C3%A9tico-AS5-12G-R/dp/B0087X71ZO/ref=sr_1_5?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1NHBHSI8VTMY7&keywords=silver+thermal+paste&qid=1677335269&sprefix=pasta+termica+plata%2Caps%2C133&sr=8-5)
 
 La pasta térmica Arctic MX-4 es una pasta térmica de alta calidad, compuesta por un 99.9% de plata pura y con un diseño de gran viscosidad. Esto garantiza gran estabilidad térmica y una gran disipación de calor.[14]
 
 El Cooler Master MasterLiquid ya posee una pasta térmica de alta calidad, pero muchos expertos en el ensamblaje de equipos de alto rendimiento recomiendan cambiar la pasta térmica que viene por defecto en los coolers líquidos, por una pasta térmica de mayor calidad.[15]
 
-### Presupuesto: US$ 3000
-### Precio total: US$ 2974.04
+### Compatibilidad:
+No se presentaron problemas con las piezas escogidas.[16]
+
+#### Presupuesto: US$3000
+#### Precio total: US$2996.9
 
 [1]: https://www.geeksforgeeks.org/cryptography-and-its-types/
 [2]: https://ieeexplore.ieee.org/abstract/document/8757514
@@ -90,3 +93,4 @@ El Cooler Master MasterLiquid ya posee una pasta térmica de alta calidad, pero 
 [13]: https://link.springer.com/chapter/10.1007/978-981-15-5558-9_39
 [14]: https://www.arctic.de/en/MX-4/ACTCP00007B
 [15]: https://linustechtips.com/topic/510610-never-leave-pre-applied-thermal-paste-on-your-cpu-read_me/
+[16]: https://pcpartpicker.com/list/Wj8Yxs
